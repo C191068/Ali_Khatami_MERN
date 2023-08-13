@@ -29,6 +29,16 @@ Those request can be clssified as CRUD operations <br>
 
 Full form of CRUD is Create, Read , Update and Delete <br>
 
+These methods also defines which type of http request method will be used in applications <br>
+
+For example Post realtes to Create <br>
+
+Get relates to Read <br>
+
+Patch or Put relates to Update <br>
+
+Delete has the exact match because DELETE=DELETE <br>
+
 
 
 
