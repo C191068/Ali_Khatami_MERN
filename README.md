@@ -22,6 +22,9 @@ Back end for the Mern stack is REST API <br>
 REST API also known as RESTful API is an interface thet two computer systems use to excahnge informtion securely <br>
 over the Internet(Amazon web services) <br>
 
+The backend will recive request from the front end <br>
+
+
 
 
 
