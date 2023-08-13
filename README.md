@@ -27,6 +27,9 @@ The backend will recive request from the front end <br>
 
 Those request can be clssified as CRUD operations <br>
 
+Full form of CRUD is Create, Read , Update and Delete <br>
+
+
 
 
 
