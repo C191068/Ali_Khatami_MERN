@@ -25,6 +25,8 @@ over the Internet(Amazon web services) <br>
 The backend will recive request from the front end <br>
 
 
+Those request can be clssified as CRUD operations <br>
+
 
 
 
