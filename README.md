@@ -15,6 +15,8 @@ The front end and backend are two completely separate  code repository <br>
 In a large enterprise full stack project there may be team and developers working on Front End and separate team of developers <br>
 working on Back-end <br>
 
+As a full stack developer one should have the ability to work both on back end and front end <br>
+
 
 
 
