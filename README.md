@@ -17,6 +17,11 @@ working on Back-end <br>
 
 As a full stack developer one should have the ability to work both on back end and front end <br>
 
+Back end for the Mern stack is REST API <br>
+
+
+
+
 
 
 
